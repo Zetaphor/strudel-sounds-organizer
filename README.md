@@ -1,5 +1,5 @@
 # strudel-sounds-organizer
-This userscript organizes the sounds panel of Strudel into a vertical list and provides a text search feature.
+This userscript organizes the sounds panel of [Strudel](https://strudel.cc) into a vertical list and provides a text search feature.
 
 [Install from Greasyfork](https://greasyfork.org/en/scripts/491838-strudel-sounds-organizer)
 
